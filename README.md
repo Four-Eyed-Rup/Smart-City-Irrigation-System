@@ -12,5 +12,5 @@ A Machine Learning-driven smart city infrastructure system that evaluates urban 
 ## 🚀 How to Run Locally
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/NandiniSarkar8052/Smart-City-Heat-Mitigation-Irrigation.git](https://github.com/NandiniSarkar8052/Smart-City-Heat-Mitigation-Irrigation.git)
+   git clone [https://github.com/Four-Eyed-Rup/Smart-City-Heat-Mitigation-Irrigation.git](https://github.com/NandiniSarkar8052/Smart-City-Heat-Mitigation-Irrigation.git)
    cd Smart-City-Heat-Mitigation-Irrigation
